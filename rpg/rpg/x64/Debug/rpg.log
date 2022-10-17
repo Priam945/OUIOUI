@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\fquach\source\repos\rpg\rpg\Main.cpp(595,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\fquach\source\repos\rpg\rpg\Main.cpp(222,1): warning C4102: 'csetup': unreferenced label
+  rpg.vcxproj -> C:\Users\fquach\source\repos\rpg\x64\Debug\rpg.exe
